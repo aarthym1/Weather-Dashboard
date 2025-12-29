@@ -1,4 +1,4 @@
-#Weather Dashboard
+## Weather Dashboard
 
 A simple and responsive **Weather Dashboard** built using **React** that fetches real-time weather data from the **OpenWeatherMap API**.  
 Users can search for a city and view current weather details like temperature, humidity, wind speed, and weather conditions.
